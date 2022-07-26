@@ -2,7 +2,8 @@
 - I am Kate.
 - I am currently studying at Higher School of Economics.
 - Major: Fundamental and Applied Linguistics.
-- Interested in Data Science, Machine Learning and languages.
+- Minor: Intellectual Data Analysis.
+- Interested in Data Science, Machine Learning and Linguistics.
 
 ### Some My Projects 👩🏻‍💻
 - [Works](https://github.com/katearb/ipynb-projects) aimed at *data analysis* and *application of various machine learning algorithms*: supervised learning, regressions, clustering (including self-made implementation of KMeans algorithm), Exploratory Data Analysis, self-made Perceptron, notebooks from Kaggle. EPAM Data Science course and EPAM Advanced NLP course are also available here.
