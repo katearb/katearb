@@ -5,7 +5,7 @@
 - Interested in Data Science, Machine Learning and languages.
 
 ### Some My Projects 👩🏻‍💻
-- [Works](https://github.com/katearb/ipynb-projects) aimed at *data analysis* and *application of various machine learning algorithms*: supervised learning, regressions, clustering (including self-made implementation of KMeans algorithm), Exploratory Data Analysis, self-made Perceptron. EPAM Data Science course and EPAM Advanced NLP course are also available here.
+- [Works](https://github.com/katearb/ipynb-projects) aimed at *data analysis* and *application of various machine learning algorithms*: supervised learning, regressions, clustering (including self-made implementation of KMeans algorithm), Exploratory Data Analysis, self-made Perceptron, notebooks from Kaggle. EPAM Data Science course and EPAM Advanced NLP course are also available here.
 - The [course work project](https://github.com/katearb/idioms/tree/master) in colaboration with [Julia](https://github.com/juliakarabasova) dedicated to the topic "Embedding in the Study of Idioms". At the moment, the data collection stage has been completed. The repository contains .dsl files of five dictionaries, parsers designed to convert them into json format and correspondent json files as a result. Some analysis of the data is also there. 
 - [Concordance maker](https://github.com/katearb/language_processing/tree/main/concordance_maker) makes concordances for a given word based on a frequency dictionary.
 - [Language identifier](https://github.com/katearb/language_processing/tree/main/language_identifier) identifies the language of a given text (eng | ger).
